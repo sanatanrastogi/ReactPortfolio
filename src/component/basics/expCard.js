@@ -4,10 +4,9 @@ const ExpCard = ({ expData }) => {
     return (
         <>
             {
-                expData.map((curElem) => {
+                expData.map((curElem, idx) => {
                     return (
-                        <>
-                            <div className="col-12 col-md-4 my-2" key={curElem.id}>
+                            <div className="col-12 col-md-4 my-2" key={idx}>
                                 <div className="card shadow h-100">
                                     <div className="card-body">
                                         <div className="card-title">
@@ -18,7 +17,7 @@ const ExpCard = ({ expData }) => {
                                     <a href={curElem.link} className="stretched-link"></a>
                                 </div>
                             </div>
-                        </>
+                        
                     );
                 })
             }

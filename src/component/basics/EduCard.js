@@ -5,9 +5,9 @@ const EduCard = ({ eduData }) => {
     return (
         <>
             {
-                eduData.map((curElem) => {
+                eduData?.map((curElem) => {
                     return (
-                        <>
+                        
                             <div className="col-12 col-md-4 my-2" key={curElem.id}>
                                 <div>
                                     <h3>{curElem.name}</h3>
@@ -16,7 +16,7 @@ const EduCard = ({ eduData }) => {
                                     Year : {curElem.year}<br />
                                 </div>
                             </div>
-                        </>
+                        
                     )
                 })
             }
