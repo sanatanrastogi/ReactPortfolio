@@ -1,0 +1,44 @@
+[
+  {
+    "name": "C Intermediate",
+    "image": "C.jpg",
+    "provider": "sololearn",
+    "pdf": "C.pdf"
+  },
+  {
+    "name": "SQL Intermediate",
+    "image": "SQL.jpg",
+    "provider": "sololearn",
+    "pdf": "SQL.pdf"
+  },
+  {
+    "name": "C# Intermediate",
+    "image": "CS.jpg",
+    "provider": "sololearn",
+    "pdf": "CS.pdf"
+  },
+  {
+    "name": "JavaScript Intermediate",
+    "image": "javascriptIntermediate.png",
+    "provider": "sololearn",
+    "pdf": "JavaScript.pdf"
+  },
+  {
+    "name": "SQL Intermediate",
+    "image": "SQL_HR.jpg",
+    "provider": "HackerRank",
+    "pdf": "SQL_HR.pdf"
+  },
+  {
+    "name": "Problem Solving (Basic)",
+    "image": "problem_solving_basic.jpg",
+    "provider": "HackerRank",
+    "pdf": "problem_solving_basic.pdf"
+  },
+  {
+    "name": "Web Development",
+    "image": "WebDevelopment.png",
+    "provider": "HackerRank",
+    "pdf": "WebDevelopment.pdf"
+  }
+]
