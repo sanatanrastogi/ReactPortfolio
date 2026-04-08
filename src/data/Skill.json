@@ -1,0 +1,62 @@
+[
+  {
+    "name": "c#",
+    "src": "https://cdn.cdnlogo.com/logos/c/27/c.svg",
+    "star": 2
+  },
+  {
+    "name": "mssql",
+    "src": "https://img.icons8.com/color/480/microsoft-sql-server.png",
+    "star": 2
+  },
+  {
+    "name": "Dot Net",
+    "src": "/images/DotNet.png",
+    "star": 2
+  },
+  {
+    "name": "HTML5",
+    "src": "https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png",
+    "star": 3
+  },
+  {
+    "name": "CSS3",
+    "src": "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png",
+    "star": 2
+  },
+  {
+    "name": "javascript",
+    "src": "https://images.squarespace-cdn.com/content/v1/5df7d8d44b9a7a49b2e475ac/1576526689110-QJM10YTHVZYU7Z7D2YLE/ke17ZwdGBToddI8pDm48kDmvgM2_GYudIur22MWWiLdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIvFa2r33EMaMk7hlBJBei4G1FTiqzsF6lpp3EXtW1YCk/js-logo.png",
+    "star": 2
+  },
+  {
+    "name": "bootstrap4",
+    "src": "https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png",
+    "star": 2
+  },
+  {
+    "name": "C",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png",
+    "star": 2
+  },
+  {
+    "name": "C++",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png",
+    "star": 2
+  },
+  {
+    "name": "React",
+    "src": "https://ionicframework.com/docs/icons/logo-react-icon.png",
+    "star": 2
+  },
+  {
+    "name": "java",
+    "src": "https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp",
+    "star": 2
+  },
+  {
+    "name": "wordpress",
+    "src": "https://cdn-icons-png.flaticon.com/512/0/583.png",
+    "star": 2
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "C. P. P.",
+    "description": "Production, Marketing, and Real-Time Inventory",
+    "link": "#"
+  },
+  {
+    "name": "Employee Health Care",
+    "description": "Store vitals of employees, generate health reports ",
+    "link": "#"
+  },
+  {
+    "name": "Auto. T. D. S. Deduction",
+    "description": "Automatically calculate and deduct TDS on a real-time monthly basis ",
+    "link": "#"
+  }
+]
