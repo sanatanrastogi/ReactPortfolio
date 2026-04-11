@@ -2,16 +2,31 @@
   {
     "name": "C. P. P.",
     "description": "Production, Marketing, and Real-Time Inventory",
-    "link": "#"
+    "link": "#",
+    "organization": "Kanpur Plastipack Pvt. Ltd."
   },
   {
     "name": "Employee Health Care",
-    "description": "Store vitals of employees, generate health reports ",
-    "link": "#"
+    "description": "Store vitals of employees, generate health reports",
+    "link": "#",
+    "organization": "Kanpur Plastipack Pvt. Ltd."
   },
   {
     "name": "Auto. T. D. S. Deduction",
-    "description": "Automatically calculate and deduct TDS on a real-time monthly basis ",
-    "link": "#"
+    "description": "Automatically calculate and deduct TDS on a real-time monthly basis",
+    "link": "#",
+    "organization": "Kanpur Plastipack Pvt. Ltd."
+  },
+  {
+    "name": "Normalization",
+    "description": "A statistical measure used to adjust scores on different scales to a common scale",
+    "link": "#",
+    "organization": "Eduquity Career Technologies"
+  },
+  {
+    "name": "SSC-EY Dashboard",
+    "description": "To provide downloadable link post exam data to third party auditor",
+    "link": "#",
+    "organization": "Eduquity Career Technologies"
   }
 ]

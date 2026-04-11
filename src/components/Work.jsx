@@ -15,7 +15,8 @@ function Work() {
                                     <h4>{w.name}</h4>
                                 </div>
                                 <div className="card-text">
-                                    {w.description}
+                                    <p>{w.description}</p>
+                                    <p className='text-muted'>{w.organization}</p>                                 
                                 </div>
                             </div>
                             <a href={w.link} className="stretched-link"></a>
