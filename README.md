@@ -1,16 +1,114 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built with React and Vite, showcasing professional experience, education, certifications, technical skills, and work samples.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **About Me**: Personal introduction and background
+- **Experience**: Professional work history and achievements
+- **Education**: Academic qualifications and details
+- **Certifications**: Professional certifications and credentials
+- **Technical Skills**: Programming languages, frameworks, and tools
+- **Work Samples**: Portfolio of projects and accomplishments
+- **Contact**: Ways to get in touch
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React 19**: Frontend framework for building user interfaces
+- **Vite**: Fast build tool and development server
+- **Bootstrap 5**: CSS framework for responsive design
+- **FontAwesome**: Icon library for visual elements
+- **JavaScript**: Programming language
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- Node.js (version 16 or higher)
+- npm or yarn package manager
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd react-portfolio
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running the Application
+
+Start the development server:
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:5173` (default Vite port).
+
+### Building for Production
+
+Build the project for production:
+```bash
+npm run build
+```
+
+Preview the production build:
+```bash
+npm run preview
+```
+
+## Project Structure
+
+```
+src/
+├── components/          # React components for each section
+│   ├── AboutMe.jsx
+│   ├── Certification.jsx
+│   ├── Contact.jsx
+│   ├── Education.jsx
+│   ├── Experience.jsx
+│   ├── Navbar.jsx
+│   ├── Technical.jsx
+│   ├── Title.jsx
+│   └── Work.jsx
+├── data/               # JSON files containing portfolio data
+│   ├── Certification.json
+│   ├── educationDetails.json
+│   ├── Experience.json
+│   ├── Skill.json
+│   └── Work.json
+├── assets/             # Static assets
+├── App.jsx             # Main application component
+└── main.jsx            # Application entry point
+```
+
+## Customization
+
+The portfolio is designed to be easily customizable. All content is stored in JSON files located in the `src/data/` directory:
+
+- Update `Certification.json` with your certifications
+- Modify `educationDetails.json` for your educational background
+- Edit `Experience.json` for your work experience
+- Customize `Skill.json` with your technical skills
+- Update `Work.json` with your projects and work samples
+
+Simply edit these JSON files with your personal information, and the portfolio will automatically reflect the changes.
+
+## Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run lint` - Run ESLint for code quality
+- `npm run preview` - Preview production build locally
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
