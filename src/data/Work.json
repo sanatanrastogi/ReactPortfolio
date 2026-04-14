@@ -28,5 +28,11 @@
     "description": "To provide downloadable link post exam data to third party auditor",
     "link": "#",
     "organization": "Eduquity Career Technologies"
+  },
+  {
+    "name": "nek-kaaj-socicety",
+    "description": "Nek Kaaj Charitable Society – A modern React + Vite NGO website focused on education, healthcare, and community welfare. Features multilingual support, dynamic programs showcase, media gallery, and donation integration.",
+    "link": "nkcs.vercel.app/",
+    "organization": "Personal Project"
   }
 ]
